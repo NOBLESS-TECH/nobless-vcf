@@ -1,7 +1,7 @@
 {
   "name": "vcf-contact-hub",
   "version": "1.0.0",
-  "description": "INCONNU BOY TECH — VCF Contact Hub (500 slots, MongoDB)",
+  "description": "NOBLESS TECH— VCF Contact Hub (500 slots, MongoDB)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
